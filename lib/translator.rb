@@ -1,5 +1,3 @@
-27 lines (21 sloc)  650 Bytes
-  
 require "yaml"
 
 def load_library(file_path)
